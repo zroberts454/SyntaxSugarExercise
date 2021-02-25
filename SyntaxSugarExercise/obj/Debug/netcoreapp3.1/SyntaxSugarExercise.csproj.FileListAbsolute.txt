@@ -1,0 +1,13 @@
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.exe
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.deps.json
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.runtimeconfig.json
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.runtimeconfig.dev.json
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.dll
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.pdb
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.csprojAssemblyReference.cache
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.dll
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.pdb
+C:\Users\Zac\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.genruntimeconfig.cache
